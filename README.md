@@ -24,7 +24,7 @@ A simple and modern password generator tool that allows users to create secure, 
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Open this link in your web browser: [Password Generator](https://secure-passkeys-generator.netlify.app/)
 2. Enter the desired length for your password in the input field.
 3. Click the "Generate" button to create the passwords.
 4. Click the "Copy" button next to each password to copy it to your clipboard.
